@@ -1,0 +1,46 @@
+a {
+    text-decoration: none;
+}
+
+.margin-auto {
+    margin: 0 auto;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.margin-24 {
+    margin: 24px;
+}
+
+.float-left {
+    float: left;
+}
+
+.header-border {
+    border-bottom: 1px solid #eee;
+    box-shadow: 0 3px 5px #ddd;
+}
+
+.header-logo-center {
+    margin: 0 auto;
+}
+
+.state-card{
+    width: 300px;
+}
+
+mat-card:hover {
+    box-shadow: 0 10px 25px #bbb;
+}
+
+.example-handle {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #ccc;
+    cursor: move;
+    width: 24px;
+    height: 24px;
+}
